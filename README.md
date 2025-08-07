@@ -23,3 +23,7 @@
 <img width="1920" height="1090" alt="Image" src="https://github.com/user-attachments/assets/998ee4c4-57c3-462d-a8f1-006b88d77999" />
 
 #OUTPUT FOR task 3.py
+
+<img width="1920" height="1093" alt="Image" src="https://github.com/user-attachments/assets/b1be2341-2eed-4152-9913-a622aafdd72a" />
+
+#OUTPUT FOR task 4.py
