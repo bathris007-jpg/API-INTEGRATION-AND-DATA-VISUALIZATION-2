@@ -20,3 +20,6 @@
 
 #OUTPUT FOR BATHRI 2.py
 
+<img width="1920" height="1090" alt="Image" src="https://github.com/user-attachments/assets/998ee4c4-57c3-462d-a8f1-006b88d77999" />
+
+#OUTPUT FOR task 3.py
