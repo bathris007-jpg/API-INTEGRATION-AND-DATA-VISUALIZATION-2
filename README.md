@@ -14,5 +14,7 @@
 
 ##YOU HAVE ENTERED THE DESCRIPTION OF THE TASK(AND IT SHOULD BE LESS THAN 500 WORDS)
 
+#OUTPUT 
 
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/0a1e06bd-72bc-46ba-93f3-a94274b23fa3" />
 
