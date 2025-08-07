@@ -27,3 +27,5 @@
 <img width="1920" height="1093" alt="Image" src="https://github.com/user-attachments/assets/b1be2341-2eed-4152-9913-a622aafdd72a" />
 
 #OUTPUT FOR task 4.py
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/af3ad98e-e473-4792-aaf5-139db9bd4bd0" />
